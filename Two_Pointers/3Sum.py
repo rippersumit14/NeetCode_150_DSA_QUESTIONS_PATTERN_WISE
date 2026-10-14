@@ -65,7 +65,7 @@ def optimized_three_Sum(nums: []):
 
     current = 0
     current_one = 1
-    fasty = len(nums) - 1
+    fasty = len(nums) - 1`
 
     #Creating lists of lists
     final_list = [[]]
